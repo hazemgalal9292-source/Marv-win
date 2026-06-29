@@ -1,0 +1,8 @@
+{
+  "name": "Marv",
+  "description": "منصة Marv لتوقعات وإشارات ألعاب 1xbet و melbet - منصة تفاعلية حديثة مدعومة بالذكاء لتوليد الإشارات واستراتيجيات الألعاب المضمونة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
